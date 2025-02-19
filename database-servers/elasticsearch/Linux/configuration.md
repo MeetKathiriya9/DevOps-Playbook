@@ -75,7 +75,6 @@ curl -X GET "http://localhost:9200/my_index/_search?q=name:John"
 curl -X DELETE "http://localhost:9200/my_index"
 ```
 
-
 ## **Backup and Restore Elasticsearch Data**
 
 ### **1. Backup an Index**
